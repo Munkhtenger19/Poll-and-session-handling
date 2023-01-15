@@ -1,0 +1,73 @@
+{
+    "4": {
+        "uname": "Apple1234",
+        "pword1": "",
+        "pword2": "",
+        "year": "2000",
+        "city": "hu-bp",
+        "color": "red",
+        "movies": [
+            "shrek",
+            "mcu"
+        ],
+        "id": 4,
+        "pword": "$2y$10$8.RWT0xT4Ekvya2Kt7LB0Owworq5T5EnOcb.qW2xE7yYrCvPN6AuC"
+    },
+    "5": {
+        "uname": "Admin",
+        "pword1": "",
+        "pword2": "",
+        "year": "2000",
+        "city": "hu-bp",
+        "color": "red",
+        "movies": [
+            "sw",
+            "shrek",
+            "lotr",
+            "tw",
+            "sdas",
+            "asd"
+        ],
+        "id": 5,
+        "pword": "$2y$10$2vTU.fKtBYxYa1x7u.9J8OpP\/1RJnzvCdQ7WMED6OF\/EVxwlfNLZa"
+    },
+    "6": {
+        "uname": "mugi123",
+        "pword1": "",
+        "pword2": "",
+        "year": "2000",
+        "city": "hu-bp",
+        "color": "red",
+        "movies": [
+            "sw"
+        ],
+        "id": 6,
+        "pword": "$2y$10$.o7.qXfMduVoJffwo52oqurQHz\/KD0WJL2TGcUuvrLxQJg.RiKGha"
+    },
+    "7": {
+        "uname": "Mugi1212",
+        "pword1": "",
+        "pword2": "",
+        "year": "2000",
+        "city": "hu-bp",
+        "color": "red",
+        "movies": [
+            "sw"
+        ],
+        "id": 7,
+        "pword": "$2y$10$CLNwRml3pruZFirKyWk.meSOphi7i64TzFfhWRVCe.6J93JdfQbse"
+    },
+    "8": {
+        "uname": "me123",
+        "pword1": "",
+        "pword2": "",
+        "year": "2000",
+        "city": "hu-bp",
+        "color": "red",
+        "movies": [
+            "sw"
+        ],
+        "id": 8,
+        "pword": "$2y$10$z6ThLfYgROviyPGdn4I5pO7d8BCb3xUcazjIiJr25EH0RDUHRXpS."
+    }
+}
